@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Apr 2025 13:51:47 at https://myavshop.com/norton-antivirus/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qgC2%Ps2u1%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://myavshop.com/norton-antivirus/ -O1 "C:\My Web Sites\pop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:52:04	Warning: 	Warning: store text/html without scan: C:/My Web Sites/pop/index-2.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 2 links scanned, 1 files written (150552 bytes overall) [30269 bytes received at 1780 bytes/sec], 150711 bytes transferred using HTTP compression in 2 files, ratio 19%
+(No errors, 1 warnings, 0 messages)
